@@ -1,0 +1,5 @@
+n1=input("Enter first number")
+n2=input("Enter second number")
+n3=input("Enter third number")
+result=int(n1)+int(n2)+int(n3)
+print(result)
